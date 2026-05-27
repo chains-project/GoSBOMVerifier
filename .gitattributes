@@ -1,0 +1,28 @@
+# Normalize text files to LF in the repo. Working-tree EOL is left as-is
+# on Linux/Mac (LF) and converted on Windows checkout if core.autocrlf
+# is enabled — but the bytes stored in the repo are always LF.
+* text=auto eol=lf
+
+# Windows-only scripts MUST stay CRLF or they fail to run on Windows.
+*.bat       text eol=crlf
+*.ps1       text eol=crlf
+*.cmd       text eol=crlf
+
+# Binary files — never touch line endings, never try to diff as text.
+*.pt        binary
+*.npz       binary
+*.png       binary
+*.jpg       binary
+*.pdf       binary
+*.zip       binary
+*.tar       binary
+*.tar.gz    binary
+*.tgz       binary
+*.gz        binary
+*.exe       binary
+*.dll       binary
+*.so        binary
+*.dylib     binary
+
+# Mark notebook output as binary-ish (avoid huge diffs)
+*.ipynb     binary

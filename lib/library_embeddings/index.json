@@ -1,0 +1,1666 @@
+{
+  "github_com_99designs_gqlgen": {
+    "library": "github_com_99designs_gqlgen",
+    "case": "go123_default",
+    "total_functions_in_binary": 6121,
+    "library_specific_functions": 839,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_BurntSushi_toml": {
+    "library": "github_com_BurntSushi_toml",
+    "case": "go123_default",
+    "total_functions_in_binary": 2248,
+    "library_specific_functions": 74,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_CloudyKit_jet_v6": {
+    "library": "github_com_CloudyKit_jet_v6",
+    "case": "go123_default",
+    "total_functions_in_binary": 2795,
+    "library_specific_functions": 75,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_PuerkitoBio_goquery": {
+    "library": "github_com_PuerkitoBio_goquery",
+    "case": "go123_default",
+    "total_functions_in_binary": 4447,
+    "library_specific_functions": 269,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_ThreeDotsLabs_watermill": {
+    "library": "github_com_ThreeDotsLabs_watermill",
+    "case": "go123_default",
+    "total_functions_in_binary": 2602,
+    "library_specific_functions": 8,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_a-h_templ": {
+    "library": "github_com_a-h_templ",
+    "case": "go123_default",
+    "total_functions_in_binary": 4523,
+    "library_specific_functions": 14,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_alecthomas_kong": {
+    "library": "github_com_alecthomas_kong",
+    "case": "go123_default",
+    "total_functions_in_binary": 2921,
+    "library_specific_functions": 82,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_anthonynsimon_bild": {
+    "library": "github_com_anthonynsimon_bild",
+    "case": "go123_default",
+    "total_functions_in_binary": 3776,
+    "library_specific_functions": 214,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_aquasecurity_trivy": {
+    "library": "github_com_aquasecurity_trivy",
+    "case": "go123_default",
+    "total_functions_in_binary": 2533,
+    "library_specific_functions": 9,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_asaskevich_govalidator": {
+    "library": "github_com_asaskevich_govalidator",
+    "case": "go123_default",
+    "total_functions_in_binary": 2636,
+    "library_specific_functions": 3,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_aws_aws-sdk-go-v2": {
+    "library": "github_com_aws_aws-sdk-go-v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 4824,
+    "library_specific_functions": 80,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_beego_beego_v2": {
+    "library": "github_com_beego_beego_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 11874,
+    "library_specific_functions": 1304,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_blevesearch_bleve_v2": {
+    "library": "github_com_blevesearch_bleve_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 5535,
+    "library_specific_functions": 1081,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_blugelabs_bluge": {
+    "library": "github_com_blugelabs_bluge",
+    "case": "go123_default",
+    "total_functions_in_binary": 3842,
+    "library_specific_functions": 271,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_briandowns_spinner": {
+    "library": "github_com_briandowns_spinner",
+    "case": "go123_default",
+    "total_functions_in_binary": 2160,
+    "library_specific_functions": 7,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_bwmarrin_snowflake": {
+    "library": "github_com_bwmarrin_snowflake",
+    "case": "go123_default",
+    "total_functions_in_binary": 1949,
+    "library_specific_functions": 4,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_bytedance_sonic": {
+    "library": "github_com_bytedance_sonic",
+    "case": "go123_default",
+    "total_functions_in_binary": 4308,
+    "library_specific_functions": 562,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_caarlos0_env_v9": {
+    "library": "github_com_caarlos0_env_v9",
+    "case": "go123_default",
+    "total_functions_in_binary": 1966,
+    "library_specific_functions": 8,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_caddyserver_caddy_v2": {
+    "library": "github_com_caddyserver_caddy_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 5713,
+    "library_specific_functions": 889,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_casbin_casbin_v2": {
+    "library": "github_com_casbin_casbin_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 5186,
+    "library_specific_functions": 962,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_cenkalti_backoff_v4": {
+    "library": "github_com_cenkalti_backoff_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 1930,
+    "library_specific_functions": 1,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_cespare_xxhash_v2": {
+    "library": "github_com_cespare_xxhash_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 1917,
+    "library_specific_functions": 1,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_charmbracelet_bubbles": {
+    "library": "github_com_charmbracelet_bubbles",
+    "case": "go123_default",
+    "total_functions_in_binary": 3463,
+    "library_specific_functions": 291,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_charmbracelet_bubbletea": {
+    "library": "github_com_charmbracelet_bubbletea",
+    "case": "go123_default",
+    "total_functions_in_binary": 2722,
+    "library_specific_functions": 67,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_charmbracelet_glow": {
+    "library": "github_com_charmbracelet_glow",
+    "case": "go123_default",
+    "total_functions_in_binary": 9938,
+    "library_specific_functions": 4334,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_charmbracelet_lipgloss": {
+    "library": "github_com_charmbracelet_lipgloss",
+    "case": "go123_default",
+    "total_functions_in_binary": 3143,
+    "library_specific_functions": 177,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_cheggaaa_pb_v3": {
+    "library": "github_com_cheggaaa_pb_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 2948,
+    "library_specific_functions": 76,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_cli_cli_v2": {
+    "library": "github_com_cli_cli_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 7976,
+    "library_specific_functions": 921,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_cockroachdb_errors": {
+    "library": "github_com_cockroachdb_errors",
+    "case": "go123_default",
+    "total_functions_in_binary": 5739,
+    "library_specific_functions": 612,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_cockroachdb_pebble": {
+    "library": "github_com_cockroachdb_pebble",
+    "case": "go123_default",
+    "total_functions_in_binary": 11106,
+    "library_specific_functions": 1929,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_containerd_containerd": {
+    "library": "github_com_containerd_containerd",
+    "case": "go123_default",
+    "total_functions_in_binary": 13237,
+    "library_specific_functions": 2291,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_coreos_go-oidc_v3": {
+    "library": "github_com_coreos_go-oidc_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 6096,
+    "library_specific_functions": 130,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_dgraph-io_badger_v4": {
+    "library": "github_com_dgraph-io_badger_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 9145,
+    "library_specific_functions": 1082,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_dgraph-io_ristretto": {
+    "library": "github_com_dgraph-io_ristretto",
+    "case": "go123_default",
+    "total_functions_in_binary": 2439,
+    "library_specific_functions": 6,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_disintegration_imaging": {
+    "library": "github_com_disintegration_imaging",
+    "case": "go123_default",
+    "total_functions_in_binary": 2312,
+    "library_specific_functions": 13,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_dustin_go-humanize": {
+    "library": "github_com_dustin_go-humanize",
+    "case": "go123_default",
+    "total_functions_in_binary": 2115,
+    "library_specific_functions": 2,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_emersion_go-imap": {
+    "library": "github_com_emersion_go-imap",
+    "case": "go123_default",
+    "total_functions_in_binary": 3652,
+    "library_specific_functions": 54,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_emersion_go-smtp": {
+    "library": "github_com_emersion_go-smtp",
+    "case": "go123_default",
+    "total_functions_in_binary": 4845,
+    "library_specific_functions": 23,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_ethereum_go-ethereum": {
+    "library": "github_com_ethereum_go-ethereum",
+    "case": "go123_default",
+    "total_functions_in_binary": 4068,
+    "library_specific_functions": 378,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_faiface_pixel": {
+    "library": "github_com_faiface_pixel",
+    "case": "go123_default",
+    "total_functions_in_binary": 2129,
+    "library_specific_functions": 22,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_fatedier_frp": {
+    "library": "github_com_fatedier_frp",
+    "case": "go123_default",
+    "total_functions_in_binary": 8218,
+    "library_specific_functions": 246,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_fatih_color": {
+    "library": "github_com_fatih_color",
+    "case": "go123_default",
+    "total_functions_in_binary": 2129,
+    "library_specific_functions": 2,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_flosch_pongo2_v6": {
+    "library": "github_com_flosch_pongo2_v6",
+    "case": "go123_default",
+    "total_functions_in_binary": 3977,
+    "library_specific_functions": 104,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_fogleman_gg": {
+    "library": "github_com_fogleman_gg",
+    "case": "go123_default",
+    "total_functions_in_binary": 2802,
+    "library_specific_functions": 30,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_fsnotify_fsnotify": {
+    "library": "github_com_fsnotify_fsnotify",
+    "case": "go123_default",
+    "total_functions_in_binary": 1934,
+    "library_specific_functions": 3,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_fxamacker_cbor_v2": {
+    "library": "github_com_fxamacker_cbor_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2408,
+    "library_specific_functions": 104,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gabriel-vasile_mimetype": {
+    "library": "github_com_gabriel-vasile_mimetype",
+    "case": "go123_default",
+    "total_functions_in_binary": 2413,
+    "library_specific_functions": 186,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gavv_httpexpect_v2": {
+    "library": "github_com_gavv_httpexpect_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 10179,
+    "library_specific_functions": 1169,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gin-contrib_sse": {
+    "library": "github_com_gin-contrib_sse",
+    "case": "go123_default",
+    "total_functions_in_binary": 3677,
+    "library_specific_functions": 10,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gin-gonic_gin": {
+    "library": "github_com_gin-gonic_gin",
+    "case": "go123_default",
+    "total_functions_in_binary": 16295,
+    "library_specific_functions": 3120,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gliderlabs_ssh": {
+    "library": "github_com_gliderlabs_ssh",
+    "case": "go123_default",
+    "total_functions_in_binary": 4214,
+    "library_specific_functions": 25,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-chi_chi_v5": {
+    "library": "github_com_go-chi_chi_v5",
+    "case": "go123_default",
+    "total_functions_in_binary": 4441,
+    "library_specific_functions": 12,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-co-op_gocron": {
+    "library": "github_com_go-co-op_gocron",
+    "case": "go123_default",
+    "total_functions_in_binary": 3014,
+    "library_specific_functions": 37,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-git_go-git_v5": {
+    "library": "github_com_go-git_go-git_v5",
+    "case": "go123_default",
+    "total_functions_in_binary": 9765,
+    "library_specific_functions": 782,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-ozzo_ozzo-validation_v4": {
+    "library": "github_com_go-ozzo_ozzo-validation_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 2726,
+    "library_specific_functions": 37,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-playground_locales": {
+    "library": "github_com_go-playground_locales",
+    "case": "go123_default",
+    "total_functions_in_binary": 1914,
+    "library_specific_functions": 2,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-playground_universal-translator": {
+    "library": "github_com_go-playground_universal-translator",
+    "case": "go123_default",
+    "total_functions_in_binary": 2464,
+    "library_specific_functions": 36,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-playground_validator_v10": {
+    "library": "github_com_go-playground_validator_v10",
+    "case": "go123_default",
+    "total_functions_in_binary": 2953,
+    "library_specific_functions": 261,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-resty_resty_v2": {
+    "library": "github_com_go-resty_resty_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 6000,
+    "library_specific_functions": 27,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-sql-driver_mysql": {
+    "library": "github_com_go-sql-driver_mysql",
+    "case": "go123_default",
+    "total_functions_in_binary": 4863,
+    "library_specific_functions": 44,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-task_task_v3": {
+    "library": "github_com_go-task_task_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 35139,
+    "library_specific_functions": 7705,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_go-viper_mapstructure_v2": {
+    "library": "github_com_go-viper_mapstructure_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2118,
+    "library_specific_functions": 9,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gobwas_ws": {
+    "library": "github_com_gobwas_ws",
+    "case": "go123_default",
+    "total_functions_in_binary": 4864,
+    "library_specific_functions": 82,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_goccy_go-json": {
+    "library": "github_com_goccy_go-json",
+    "case": "go123_default",
+    "total_functions_in_binary": 2743,
+    "library_specific_functions": 245,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gocql_gocql": {
+    "library": "github_com_gocql_gocql",
+    "case": "go123_default",
+    "total_functions_in_binary": 1709,
+    "library_specific_functions": 11,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gofiber_fiber_v2": {
+    "library": "github_com_gofiber_fiber_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 7440,
+    "library_specific_functions": 535,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gogo_protobuf": {
+    "library": "github_com_gogo_protobuf",
+    "case": "go123_default",
+    "total_functions_in_binary": 2800,
+    "library_specific_functions": 405,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gohugoio_hugo": {
+    "library": "github_com_gohugoio_hugo",
+    "case": "go123_default",
+    "total_functions_in_binary": 32756,
+    "library_specific_functions": 8929,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_golang-jwt_jwt_v5": {
+    "library": "github_com_golang-jwt_jwt_v5",
+    "case": "go123_default",
+    "total_functions_in_binary": 3125,
+    "library_specific_functions": 57,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_golang_mock": {
+    "library": "github_com_golang_mock",
+    "case": "go123_default",
+    "total_functions_in_binary": 4558,
+    "library_specific_functions": 13,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_google_uuid": {
+    "library": "github_com_google_uuid",
+    "case": "go123_default",
+    "total_functions_in_binary": 2482,
+    "library_specific_functions": 13,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gookit_color": {
+    "library": "github_com_gookit_color",
+    "case": "go123_default",
+    "total_functions_in_binary": 1515,
+    "library_specific_functions": 16,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_goreleaser_goreleaser": {
+    "library": "github_com_goreleaser_goreleaser",
+    "case": "go123_default",
+    "total_functions_in_binary": 49050,
+    "library_specific_functions": 11421,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gorilla_mux": {
+    "library": "github_com_gorilla_mux",
+    "case": "go123_default",
+    "total_functions_in_binary": 4458,
+    "library_specific_functions": 17,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gorilla_websocket": {
+    "library": "github_com_gorilla_websocket",
+    "case": "go123_default",
+    "total_functions_in_binary": 5067,
+    "library_specific_functions": 33,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_gosimple_slug": {
+    "library": "github_com_gosimple_slug",
+    "case": "go123_default",
+    "total_functions_in_binary": 1196,
+    "library_specific_functions": 8,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_grafana_loki": {
+    "library": "github_com_grafana_loki",
+    "case": "go123_default",
+    "total_functions_in_binary": 12251,
+    "library_specific_functions": 2164,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_graphql-go_graphql": {
+    "library": "github_com_graphql-go_graphql",
+    "case": "go123_default",
+    "total_functions_in_binary": 2621,
+    "library_specific_functions": 162,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_h2non_gock": {
+    "library": "github_com_h2non_gock",
+    "case": "go123_default",
+    "total_functions_in_binary": 5868,
+    "library_specific_functions": 33,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_hako_durafmt": {
+    "library": "github_com_hako_durafmt",
+    "case": "go123_default",
+    "total_functions_in_binary": 2160,
+    "library_specific_functions": 5,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_hashicorp_consul_api": {
+    "library": "github_com_hashicorp_consul_api",
+    "case": "go123_default",
+    "total_functions_in_binary": 6719,
+    "library_specific_functions": 64,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_hashicorp_go-multierror": {
+    "library": "github_com_hashicorp_go-multierror",
+    "case": "go123_default",
+    "total_functions_in_binary": 1965,
+    "library_specific_functions": 9,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_hashicorp_go-plugin": {
+    "library": "github_com_hashicorp_go-plugin",
+    "case": "go123_default",
+    "total_functions_in_binary": 10516,
+    "library_specific_functions": 1228,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_hashicorp_go-retryablehttp": {
+    "library": "github_com_hashicorp_go-retryablehttp",
+    "case": "go123_default",
+    "total_functions_in_binary": 5630,
+    "library_specific_functions": 41,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_hashicorp_memberlist": {
+    "library": "github_com_hashicorp_memberlist",
+    "case": "go123_default",
+    "total_functions_in_binary": 7305,
+    "library_specific_functions": 391,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_hasura_go-graphql-client": {
+    "library": "github_com_hasura_go-graphql-client",
+    "case": "go123_default",
+    "total_functions_in_binary": 5925,
+    "library_specific_functions": 86,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_huandu_xstrings": {
+    "library": "github_com_huandu_xstrings",
+    "case": "go123_default",
+    "total_functions_in_binary": 1919,
+    "library_specific_functions": 2,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_influxdata_telegraf": {
+    "library": "github_com_influxdata_telegraf",
+    "case": "go123_default",
+    "total_functions_in_binary": 2002,
+    "library_specific_functions": 3,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jackc_pgx_v5": {
+    "library": "github_com_jackc_pgx_v5",
+    "case": "go123_default",
+    "total_functions_in_binary": 9029,
+    "library_specific_functions": 1475,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jaegertracing_jaeger": {
+    "library": "github_com_jaegertracing_jaeger",
+    "case": "go123_default",
+    "total_functions_in_binary": 12362,
+    "library_specific_functions": 1934,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jarcoal_httpmock": {
+    "library": "github_com_jarcoal_httpmock",
+    "case": "go123_default",
+    "total_functions_in_binary": 5810,
+    "library_specific_functions": 56,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jesseduffield_lazygit": {
+    "library": "github_com_jesseduffield_lazygit",
+    "case": "go123_default",
+    "total_functions_in_binary": 17656,
+    "library_specific_functions": 3301,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jinzhu_now": {
+    "library": "github_com_jinzhu_now",
+    "case": "go123_default",
+    "total_functions_in_binary": 2218,
+    "library_specific_functions": 42,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jmoiron_sqlx": {
+    "library": "github_com_jmoiron_sqlx",
+    "case": "go123_default",
+    "total_functions_in_binary": 2699,
+    "library_specific_functions": 111,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jordan-wright_email": {
+    "library": "github_com_jordan-wright_email",
+    "case": "go123_default",
+    "total_functions_in_binary": 4588,
+    "library_specific_functions": 21,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_json-iterator_go": {
+    "library": "github_com_json-iterator_go",
+    "case": "go123_default",
+    "total_functions_in_binary": 3764,
+    "library_specific_functions": 471,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_juju_ratelimit": {
+    "library": "github_com_juju_ratelimit",
+    "case": "go123_default",
+    "total_functions_in_binary": 1925,
+    "library_specific_functions": 1,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_julienschmidt_httprouter": {
+    "library": "github_com_julienschmidt_httprouter",
+    "case": "go123_default",
+    "total_functions_in_binary": 4337,
+    "library_specific_functions": 5,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_jung-kurt_gofpdf": {
+    "library": "github_com_jung-kurt_gofpdf",
+    "case": "go123_default",
+    "total_functions_in_binary": 3851,
+    "library_specific_functions": 39,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_kardianos_service": {
+    "library": "github_com_kardianos_service",
+    "case": "go123_default",
+    "total_functions_in_binary": 1733,
+    "library_specific_functions": 21,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_kataras_iris_v12": {
+    "library": "github_com_kataras_iris_v12",
+    "case": "go123_default",
+    "total_functions_in_binary": 13219,
+    "library_specific_functions": 1817,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_kelseyhightower_envconfig": {
+    "library": "github_com_kelseyhightower_envconfig",
+    "case": "go123_default",
+    "total_functions_in_binary": 2055,
+    "library_specific_functions": 1,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_klauspost_cpuid_v2": {
+    "library": "github_com_klauspost_cpuid_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2211,
+    "library_specific_functions": 27,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_knadh_koanf_v2": {
+    "library": "github_com_knadh_koanf_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2409,
+    "library_specific_functions": 37,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_labstack_echo_v4": {
+    "library": "github_com_labstack_echo_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 7504,
+    "library_specific_functions": 54,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_leodido_go-urn": {
+    "library": "github_com_leodido_go-urn",
+    "case": "go123_default",
+    "total_functions_in_binary": 2195,
+    "library_specific_functions": 11,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_levigross_grequests": {
+    "library": "github_com_levigross_grequests",
+    "case": "go123_default",
+    "total_functions_in_binary": 5722,
+    "library_specific_functions": 22,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_lib_pq": {
+    "library": "github_com_lib_pq",
+    "case": "go123_default",
+    "total_functions_in_binary": 5215,
+    "library_specific_functions": 86,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_mailru_easyjson": {
+    "library": "github_com_mailru_easyjson",
+    "case": "go123_default",
+    "total_functions_in_binary": 3621,
+    "library_specific_functions": 11,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_manifoldco_promptui": {
+    "library": "github_com_manifoldco_promptui",
+    "case": "go123_default",
+    "total_functions_in_binary": 3029,
+    "library_specific_functions": 75,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_mattn_go-colorable": {
+    "library": "github_com_mattn_go-colorable",
+    "case": "go123_default",
+    "total_functions_in_binary": 1922,
+    "library_specific_functions": 1,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_mgutz_ansi": {
+    "library": "github_com_mgutz_ansi",
+    "case": "go123_default",
+    "total_functions_in_binary": 1203,
+    "library_specific_functions": 1,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_mholt_archiver_v4": {
+    "library": "github_com_mholt_archiver_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 7046,
+    "library_specific_functions": 825,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_microcosm-cc_bluemonday": {
+    "library": "github_com_microcosm-cc_bluemonday",
+    "case": "go123_default",
+    "total_functions_in_binary": 2712,
+    "library_specific_functions": 177,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_miekg_dns": {
+    "library": "github_com_miekg_dns",
+    "case": "go123_default",
+    "total_functions_in_binary": 1890,
+    "library_specific_functions": 17,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_minio_minio-go_v7": {
+    "library": "github_com_minio_minio-go_v7",
+    "case": "go123_default",
+    "total_functions_in_binary": 7983,
+    "library_specific_functions": 674,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_minio_sha256-simd": {
+    "library": "github_com_minio_sha256-simd",
+    "case": "go123_default",
+    "total_functions_in_binary": 2229,
+    "library_specific_functions": 22,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_mitchellh_cli": {
+    "library": "github_com_mitchellh_cli",
+    "case": "go123_default",
+    "total_functions_in_binary": 5183,
+    "library_specific_functions": 268,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_mitchellh_mapstructure": {
+    "library": "github_com_mitchellh_mapstructure",
+    "case": "go123_default",
+    "total_functions_in_binary": 2087,
+    "library_specific_functions": 6,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_modern-go_concurrent": {
+    "library": "github_com_modern-go_concurrent",
+    "case": "go123_default",
+    "total_functions_in_binary": 2181,
+    "library_specific_functions": 2,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_modern-go_reflect2": {
+    "library": "github_com_modern-go_reflect2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2876,
+    "library_specific_functions": 396,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_montanaflynn_stats": {
+    "library": "github_com_montanaflynn_stats",
+    "case": "go123_default",
+    "total_functions_in_binary": 2028,
+    "library_specific_functions": 36,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_muesli_termenv": {
+    "library": "github_com_muesli_termenv",
+    "case": "go123_default",
+    "total_functions_in_binary": 1145,
+    "library_specific_functions": 2,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_natefinch_lumberjack": {
+    "library": "github_com_natefinch_lumberjack",
+    "case": "go123_default",
+    "total_functions_in_binary": 2257,
+    "library_specific_functions": 14,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_nats-io_nats_go": {
+    "library": "github_com_nats-io_nats_go",
+    "case": "go123_default",
+    "total_functions_in_binary": 2842,
+    "library_specific_functions": 20,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_nektos_act": {
+    "library": "github_com_nektos_act",
+    "case": "go123_default",
+    "total_functions_in_binary": 12869,
+    "library_specific_functions": 1776,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_nutsdb_nutsdb": {
+    "library": "github_com_nutsdb_nutsdb",
+    "case": "go123_default",
+    "total_functions_in_binary": 2369,
+    "library_specific_functions": 11,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_oklog_ulid_v2": {
+    "library": "github_com_oklog_ulid_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 1974,
+    "library_specific_functions": 6,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_olahol_melody": {
+    "library": "github_com_olahol_melody",
+    "case": "go123_default",
+    "total_functions_in_binary": 4645,
+    "library_specific_functions": 31,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_olekukonko_tablewriter": {
+    "library": "github_com_olekukonko_tablewriter",
+    "case": "go123_default",
+    "total_functions_in_binary": 3485,
+    "library_specific_functions": 195,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_onsi_ginkgo_v2": {
+    "library": "github_com_onsi_ginkgo_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 6091,
+    "library_specific_functions": 158,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_onsi_gomega": {
+    "library": "github_com_onsi_gomega",
+    "case": "go123_default",
+    "total_functions_in_binary": 2666,
+    "library_specific_functions": 5,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_panjf2000_ants_v2": {
+    "library": "github_com_panjf2000_ants_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2263,
+    "library_specific_functions": 18,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_parnurzeal_gorequest": {
+    "library": "github_com_parnurzeal_gorequest",
+    "case": "go123_default",
+    "total_functions_in_binary": 5878,
+    "library_specific_functions": 17,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_patrickmn_go-cache": {
+    "library": "github_com_patrickmn_go-cache",
+    "case": "go123_default",
+    "total_functions_in_binary": 2566,
+    "library_specific_functions": 48,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_pdfcpu_pdfcpu": {
+    "library": "github_com_pdfcpu_pdfcpu",
+    "case": "go123_default",
+    "total_functions_in_binary": 5129,
+    "library_specific_functions": 37,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_pelletier_go-toml_v2": {
+    "library": "github_com_pelletier_go-toml_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2172,
+    "library_specific_functions": 50,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_pierrec_lz4_v4": {
+    "library": "github_com_pierrec_lz4_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 2040,
+    "library_specific_functions": 28,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_pion_webrtc_v4": {
+    "library": "github_com_pion_webrtc_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 8821,
+    "library_specific_functions": 736,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_projectdiscovery_httpx": {
+    "library": "github_com_projectdiscovery_httpx",
+    "case": "go123_default",
+    "total_functions_in_binary": 17816,
+    "library_specific_functions": 3369,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_projectdiscovery_nuclei_v3": {
+    "library": "github_com_projectdiscovery_nuclei_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 55012,
+    "library_specific_functions": 18085,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_projectdiscovery_subfinder_v2": {
+    "library": "github_com_projectdiscovery_subfinder_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 20497,
+    "library_specific_functions": 3868,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_prometheus_client_golang": {
+    "library": "github_com_prometheus_client_golang",
+    "case": "go123_default",
+    "total_functions_in_binary": 6599,
+    "library_specific_functions": 756,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_prometheus_prometheus": {
+    "library": "github_com_prometheus_prometheus",
+    "case": "go123_default",
+    "total_functions_in_binary": 2148,
+    "library_specific_functions": 1,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_reugn_go-quartz": {
+    "library": "github_com_reugn_go-quartz",
+    "case": "go123_default",
+    "total_functions_in_binary": 2673,
+    "library_specific_functions": 6,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_revel_revel": {
+    "library": "github_com_revel_revel",
+    "case": "go123_default",
+    "total_functions_in_binary": 7551,
+    "library_specific_functions": 329,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_robfig_cron_v3": {
+    "library": "github_com_robfig_cron_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 2267,
+    "library_specific_functions": 16,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_rs_xid": {
+    "library": "github_com_rs_xid",
+    "case": "go123_default",
+    "total_functions_in_binary": 1312,
+    "library_specific_functions": 3,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_rs_zerolog": {
+    "library": "github_com_rs_zerolog",
+    "case": "go123_default",
+    "total_functions_in_binary": 2881,
+    "library_specific_functions": 119,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_russross_blackfriday_v2": {
+    "library": "github_com_russross_blackfriday_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 2241,
+    "library_specific_functions": 19,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_sagikazarmark_locafero": {
+    "library": "github_com_sagikazarmark_locafero",
+    "case": "go123_default",
+    "total_functions_in_binary": 3457,
+    "library_specific_functions": 12,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_schollz_croc_v10": {
+    "library": "github_com_schollz_croc_v10",
+    "case": "go123_default",
+    "total_functions_in_binary": 7527,
+    "library_specific_functions": 205,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_schollz_progressbar_v3": {
+    "library": "github_com_schollz_progressbar_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 5910,
+    "library_specific_functions": 15,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_segmentio_kafka-go": {
+    "library": "github_com_segmentio_kafka-go",
+    "case": "go123_default",
+    "total_functions_in_binary": 6004,
+    "library_specific_functions": 375,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_segmentio_ksuid": {
+    "library": "github_com_segmentio_ksuid",
+    "case": "go123_default",
+    "total_functions_in_binary": 2159,
+    "library_specific_functions": 11,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_sevlyar_go-daemon": {
+    "library": "github_com_sevlyar_go-daemon",
+    "case": "go123_default",
+    "total_functions_in_binary": 2568,
+    "library_specific_functions": 25,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_shopspring_decimal": {
+    "library": "github_com_shopspring_decimal",
+    "case": "go123_default",
+    "total_functions_in_binary": 2374,
+    "library_specific_functions": 60,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_sirupsen_logrus": {
+    "library": "github_com_sirupsen_logrus",
+    "case": "go123_default",
+    "total_functions_in_binary": 2464,
+    "library_specific_functions": 16,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_smallnest_rpcx": {
+    "library": "github_com_smallnest_rpcx",
+    "case": "go123_default",
+    "total_functions_in_binary": 7990,
+    "library_specific_functions": 564,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_snail007_goproxy": {
+    "library": "github_com_snail007_goproxy",
+    "case": "go123_default",
+    "total_functions_in_binary": 5953,
+    "library_specific_functions": 51,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_sony_gobreaker": {
+    "library": "github_com_sony_gobreaker",
+    "case": "go123_default",
+    "total_functions_in_binary": 1936,
+    "library_specific_functions": 2,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_sourcegraph_conc": {
+    "library": "github_com_sourcegraph_conc",
+    "case": "go123_default",
+    "total_functions_in_binary": 1937,
+    "library_specific_functions": 3,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_spf13_afero": {
+    "library": "github_com_spf13_afero",
+    "case": "go123_default",
+    "total_functions_in_binary": 4083,
+    "library_specific_functions": 136,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_spf13_cast": {
+    "library": "github_com_spf13_cast",
+    "case": "go123_default",
+    "total_functions_in_binary": 1367,
+    "library_specific_functions": 14,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_spf13_cobra": {
+    "library": "github_com_spf13_cobra",
+    "case": "go123_default",
+    "total_functions_in_binary": 3469,
+    "library_specific_functions": 138,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_spf13_pflag": {
+    "library": "github_com_spf13_pflag",
+    "case": "go123_default",
+    "total_functions_in_binary": 2806,
+    "library_specific_functions": 89,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_spf13_viper": {
+    "library": "github_com_spf13_viper",
+    "case": "go123_default",
+    "total_functions_in_binary": 5361,
+    "library_specific_functions": 455,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_stretchr_testify": {
+    "library": "github_com_stretchr_testify",
+    "case": "go123_default",
+    "total_functions_in_binary": 6018,
+    "library_specific_functions": 651,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_swaggo_swag": {
+    "library": "github_com_swaggo_swag",
+    "case": "go123_default",
+    "total_functions_in_binary": 8955,
+    "library_specific_functions": 237,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_syncthing_syncthing": {
+    "library": "github_com_syncthing_syncthing",
+    "case": "go123_default",
+    "total_functions_in_binary": 13916,
+    "library_specific_functions": 2054,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_syndtr_goleveldb": {
+    "library": "github_com_syndtr_goleveldb",
+    "case": "go123_default",
+    "total_functions_in_binary": 2677,
+    "library_specific_functions": 111,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_thomaspoignant_go-feature-flag": {
+    "library": "github_com_thomaspoignant_go-feature-flag",
+    "case": "go123_default",
+    "total_functions_in_binary": 5130,
+    "library_specific_functions": 491,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_tidwall_buntdb": {
+    "library": "github_com_tidwall_buntdb",
+    "case": "go123_default",
+    "total_functions_in_binary": 2411,
+    "library_specific_functions": 20,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_twitchtv_twirp": {
+    "library": "github_com_twitchtv_twirp",
+    "case": "go123_default",
+    "total_functions_in_binary": 4244,
+    "library_specific_functions": 4,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_twitchyliquid64_golang-asm": {
+    "library": "github_com_twitchyliquid64_golang-asm",
+    "case": "go123_default",
+    "total_functions_in_binary": 2943,
+    "library_specific_functions": 276,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_ugorji_go_codec": {
+    "library": "github_com_ugorji_go_codec",
+    "case": "go123_default",
+    "total_functions_in_binary": 6719,
+    "library_specific_functions": 1608,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_ulikunitz_xz": {
+    "library": "github_com_ulikunitz_xz",
+    "case": "go123_default",
+    "total_functions_in_binary": 2392,
+    "library_specific_functions": 57,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_unidoc_unipdf_v3": {
+    "library": "github_com_unidoc_unipdf_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 3777,
+    "library_specific_functions": 481,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_upper_db_v4": {
+    "library": "github_com_upper_db_v4",
+    "case": "go123_default",
+    "total_functions_in_binary": 2690,
+    "library_specific_functions": 25,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_urfave_cli_v2": {
+    "library": "github_com_urfave_cli_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 3351,
+    "library_specific_functions": 110,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_valyala_bytebufferpool": {
+    "library": "github_com_valyala_bytebufferpool",
+    "case": "go123_default",
+    "total_functions_in_binary": 1938,
+    "library_specific_functions": 3,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_valyala_fasthttp": {
+    "library": "github_com_valyala_fasthttp",
+    "case": "go123_default",
+    "total_functions_in_binary": 6631,
+    "library_specific_functions": 508,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_vmihailenco_msgpack_v5": {
+    "library": "github_com_vmihailenco_msgpack_v5",
+    "case": "go123_default",
+    "total_functions_in_binary": 2427,
+    "library_specific_functions": 106,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_xtaci_kcp-go_v5": {
+    "library": "github_com_xtaci_kcp-go_v5",
+    "case": "go123_default",
+    "total_functions_in_binary": 2986,
+    "library_specific_functions": 30,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_yuin_goldmark": {
+    "library": "github_com_yuin_goldmark",
+    "case": "go123_default",
+    "total_functions_in_binary": 3137,
+    "library_specific_functions": 88,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "github_com_zeebo_blake3": {
+    "library": "github_com_zeebo_blake3",
+    "case": "go123_default",
+    "total_functions_in_binary": 2200,
+    "library_specific_functions": 24,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "go_etcd_io_bbolt": {
+    "library": "go_etcd_io_bbolt",
+    "case": "go123_default",
+    "total_functions_in_binary": 2532,
+    "library_specific_functions": 91,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "go_etcd_io_etcd_client_v3": {
+    "library": "go_etcd_io_etcd_client_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 12268,
+    "library_specific_functions": 2010,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "go_mongodb_org_mongo-driver": {
+    "library": "go_mongodb_org_mongo-driver",
+    "case": "go123_default",
+    "total_functions_in_binary": 9286,
+    "library_specific_functions": 1095,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "go_opentelemetry_io_otel": {
+    "library": "go_opentelemetry_io_otel",
+    "case": "go123_default",
+    "total_functions_in_binary": 4697,
+    "library_specific_functions": 148,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "go_uber_org_dig": {
+    "library": "go_uber_org_dig",
+    "case": "go123_default",
+    "total_functions_in_binary": 2230,
+    "library_specific_functions": 74,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "go_uber_org_fx": {
+    "library": "go_uber_org_fx",
+    "case": "go123_default",
+    "total_functions_in_binary": 2432,
+    "library_specific_functions": 39,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "go_uber_org_zap": {
+    "library": "go_uber_org_zap",
+    "case": "go123_default",
+    "total_functions_in_binary": 5033,
+    "library_specific_functions": 239,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "google_golang_org_grpc": {
+    "library": "google_golang_org_grpc",
+    "case": "go123_default",
+    "total_functions_in_binary": 8605,
+    "library_specific_functions": 1009,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "google_golang_org_protobuf": {
+    "library": "google_golang_org_protobuf",
+    "case": "go123_default",
+    "total_functions_in_binary": 4338,
+    "library_specific_functions": 729,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gopkg_in_gomail_v2": {
+    "library": "gopkg_in_gomail_v2",
+    "case": "go123_default",
+    "total_functions_in_binary": 4590,
+    "library_specific_functions": 13,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gopkg_in_yaml_v3": {
+    "library": "gopkg_in_yaml_v3",
+    "case": "go123_default",
+    "total_functions_in_binary": 2392,
+    "library_specific_functions": 142,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gorgonia_org_gorgonia": {
+    "library": "gorgonia_org_gorgonia",
+    "case": "go123_default",
+    "total_functions_in_binary": 11020,
+    "library_specific_functions": 4117,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gorgonia_org_tensor": {
+    "library": "gorgonia_org_tensor",
+    "case": "go123_default",
+    "total_functions_in_binary": 9370,
+    "library_specific_functions": 3635,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gorm_io_driver_mysql": {
+    "library": "gorm_io_driver_mysql",
+    "case": "go123_default",
+    "total_functions_in_binary": 6709,
+    "library_specific_functions": 464,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gorm_io_driver_postgres": {
+    "library": "gorm_io_driver_postgres",
+    "case": "go123_default",
+    "total_functions_in_binary": 11314,
+    "library_specific_functions": 1900,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gorm_io_driver_sqlite": {
+    "library": "gorm_io_driver_sqlite",
+    "case": "go123_default",
+    "total_functions_in_binary": 4518,
+    "library_specific_functions": 405,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "gorm_io_gorm": {
+    "library": "gorm_io_gorm",
+    "case": "go123_default",
+    "total_functions_in_binary": 4216,
+    "library_specific_functions": 213,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "k8s_io_apimachinery": {
+    "library": "k8s_io_apimachinery",
+    "case": "go123_default",
+    "total_functions_in_binary": 9011,
+    "library_specific_functions": 807,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "k8s_io_client-go": {
+    "library": "k8s_io_client-go",
+    "case": "go123_default",
+    "total_functions_in_binary": 31432,
+    "library_specific_functions": 2784,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "k8s_io_kube-proxy": {
+    "library": "k8s_io_kube-proxy",
+    "case": "go123_default",
+    "total_functions_in_binary": 11308,
+    "library_specific_functions": 1743,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "k8s_io_kubectl": {
+    "library": "k8s_io_kubectl",
+    "case": "go123_default",
+    "total_functions_in_binary": 38744,
+    "library_specific_functions": 3959,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  },
+  "nhooyr_io_websocket": {
+    "library": "nhooyr_io_websocket",
+    "case": "go123_default",
+    "total_functions_in_binary": 5478,
+    "library_specific_functions": 23,
+    "embedding_dim": 64,
+    "stdlib_filtered": true
+  }
+}
