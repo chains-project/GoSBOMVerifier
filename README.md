@@ -4,6 +4,8 @@ A verifier that checks whether the third-party Go modules declared in an SBOM
 are actually present in a compiled Go binary. Supports three complementary
 detection methods and exposes them through a single CLI.
 
+Corpora are available at: https://zenodo.org/records/20794562
+
 ## Methods
 
 - **symtab** — parses module paths out of the binary's ELF `.symtab` section.
